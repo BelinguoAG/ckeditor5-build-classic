@@ -91,7 +91,6 @@ ClassicEditor.defaultConfig = {
             'alignLeft', 'alignCenter', 'alignRight'
         ],
 
-
         // You need to configure the image toolbar, too, so it shows the new style
         // buttons as well as the resize buttons.
         toolbar: [
